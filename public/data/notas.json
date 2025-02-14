@@ -1,0 +1,49 @@
+[
+    {
+        "id":1,
+        "titulo":"EL PIONERO",
+        "descripcion": "Emiro Alegria uno de los principales exponentes artesanales…",
+        "contenido": "",
+        "fecha de publicacion": "Tipo de material usado",
+        "imagenPrincipal": "/notas/3-pionero.jpg",
+        "grupoImagenes":[
+            {
+                "tiraImagenes":"",
+                "descripImagen":""
+            }
+        ]
+
+    },
+    
+    {
+        "id":2,
+        "titulo":"ARTE",
+        "descripcion": "¿No sabes que regalar? Un apero de nosotros puede ser una gran opción.",
+        "contenido": "",
+        "fecha de publicacion": "Tipo de material usado",
+        "imagenPrincipal": "/notas/2-donaciano.jpg",
+        "grupoImagenes":[
+            {
+                "tiraImagenes":"",
+                "descripImagen":""
+            }
+        ]
+
+    },
+    
+    {
+        "id":3,
+        "titulo":"UN GRAN EJEMPLAR",
+        "descripcion": "Desde algún rincon de Medellín-Antoquia un gran semental ganador de la actual copa nacional de paso fino.",
+        "contenido": "",
+        "fecha de publicacion": "Tipo de material usado",
+        "imagenPrincipal": "/notas/1-ejemplar.jpg",
+        "grupoImagenes":[
+            {
+                "tiraImagenes":"",
+                "descripImagen":""
+            }
+        ]
+
+    }
+]

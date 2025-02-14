@@ -1,0 +1,98 @@
+[
+    {
+        "id":1,
+        "nombre":"Aperos timbiano 1",
+        "descripcion": "Apero con x propiedades",
+        "precio del apeo": "precio en pesos",
+        "caracteristicas": "Tipo de material usado",
+        "imagenPrincipal": "/productos/apero_tejido_azul_claro.jpg",
+        "grupoImagenes":[
+            {
+                "tiraImagenes":"",
+                "descripImagen":""
+            }
+        ]
+            
+        
+    },
+    {
+        "id":2,
+        "nombre":"Aperos timbiano 2",
+        "descripcion": "Apero con x propiedades",
+        "precio del apeo": "precio en pesos",
+        "caracteristicas": "Tipo de material usado",
+        "imagenPrincipal": "/productos/apero_tejido_crudo.jpg",
+        "grupoImagenes":[
+            {
+                "tiraImagenes":"",
+                "descripImagen":""
+            }
+        ]
+            
+        
+    },
+    {
+        "id":3,
+        "nombre":"Aperos timbiano 3",
+        "descripcion": "Apero con x propiedades",
+        "precio del apeo": "precio en pesos",
+        "caracteristicas": "Tipo de material usado",
+        "imagenPrincipal": "/productos/apero_tejido_dorado.jpg",
+        "grupoImagenes":[
+            {
+                "tiraImagenes":"",
+                "descripImagen":""
+            }
+        ]
+            
+        
+    },
+    {
+        "id":4,
+        "nombre":"Aperos timbiano 4",
+        "descripcion": "Apero con x propiedades",
+        "precio del apeo": "precio en pesos",
+        "caracteristicas": "Tipo de material usado",
+        "imagenPrincipal": "/productos/apero_tejido_azul_claro.jpg",
+        "grupoImagenes":[
+            {
+                "tiraImagenes":"",
+                "descripImagen":""
+            }
+        ]
+            
+        
+    },
+    {
+        "id":5,
+        "nombre":"Aperos timbiano 5",
+        "descripcion": "Apero con x propiedades",
+        "precio del apeo": "precio en pesos",
+        "caracteristicas": "Tipo de material usado",
+        "imagenPrincipal": "/productos/apero_tejido_azul_claro.jpg",
+        "grupoImagenes":[
+            {
+                "tiraImagenes":"",
+                "descripImagen":""
+            }
+        ]
+            
+        
+    },
+    {
+        "id":6,
+        "nombre":"Aperos timbiano 6",
+        "descripcion": "Apero con x propiedades",
+        "precio del apeo": "precio en pesos",
+        "caracteristicas": "Tipo de material usado",
+        "imagenPrincipal": "/productos/apero_tejido_azul_claro.jpg",
+        "grupoImagenes":[
+            {
+                "tiraImagenes":"",
+                "descripImagen":""
+            }
+        ]
+            
+        
+    }
+]
