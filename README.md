@@ -1,2 +1,2 @@
 # aperostimbio
-sitioweb aperos timbio
+sitioweb aperos timbio -cssds
