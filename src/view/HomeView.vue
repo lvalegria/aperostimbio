@@ -223,7 +223,7 @@ onMounted(() => {
 </script>
 
 
-<style >
+<style scope>
     /*****           HOME SUP                   ******/
     section.home-sup img{width: 100%;}
     #portada{
@@ -246,24 +246,7 @@ onMounted(() => {
         margin-bottom: 1em;
     }
 
-    .line-decot{
-        position: relative;
-        text-align: center;
-        font-weight: 500;
-        text-transform: uppercase;
-    }
-
-    .line-decot::after, .line-decot::before{
-        content: '';
-        position: absolute;
-        width: 2em;
-        height: .10em;
-        background-color:#000000;
-        top:0.5em
-    }
     
-    .line-decot::before{left:9em;}
-    .line-decot::after{right:9em;}
 
     button.boton-line{
         background: white;
@@ -287,7 +270,7 @@ onMounted(() => {
     }
     .display-r{display: block; padding: 0em 0em 2em 0em;}
     .icon-r {text-align: center;}
-    .icon-r img{width: 50%;}
+    .icon-r img{width: 35%;}
     .caja-r p{ text-align: center; color: white; font-weight: 500;}
 
     /*****                  Tejidos              *******/
@@ -322,16 +305,7 @@ onMounted(() => {
     }
     .caj-tej {color: white; padding: 4em 1em 0em 1em;}
 
-    .underline{
-        font-size: 1.4em; 
-        text-align: center;
-        font-weight: 500;
-        letter-spacing: 1px;
-        font-family: "Merriweather", serif;
-        text-decoration-line: underline;
-        text-underline-offset: .4em;
-        text-decoration-thickness: 1px;
-    }
+    
     .caj-tej p {text-align: center; padding-top: 1em;}
 
     
@@ -444,9 +418,7 @@ onMounted(() => {
     }
     section.somos { padding: 6em 0em 6em 0em;}
 
-    .line-decot::after, .line-decot::before{width: 3em;}
-    .line-decot::before{left:5.5em;}
-    .line-decot::after{right:5.5em;}
+    
 
     section.reconocidos{
         background-image: url("../assets/home-reconocidos-desktop.jpg");
@@ -456,8 +428,8 @@ onMounted(() => {
 
     .reconocidos h2{text-align: left;padding: 2em 0em 0em 2em; }
     .display-r{display: flex; padding: 0em 5em 0em 5em;
-    justify-content:space-between;}
-    .icon-r img{width: 10em; margin-bottom: 1em;}
+    justify-content:space-around;}
+    .icon-r img{width: 6em; margin-bottom: 1em;}
 
 
 
